@@ -19,3 +19,6 @@ I'm a passionate mobile developer focused on building modern Android application
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedazizi3&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedazizi3&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ahmedazizi3&theme=tokyonight&hide_border=true&date_format=M%20j[, %Y])
+
