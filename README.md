@@ -31,3 +31,18 @@ I'm a passionate mobile developer focused on building modern Android application
 ### 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ahmedazizi3&theme=radical&hide_border=true)
+
+---
+
+### ⏱️ Wakatime Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+> This section updates automatically every day via GitHub Actions. Make sure you've set up Wakatime API correctly.
+
+---
+
+### 📈 Contribution Activity Graph
+
+[![Ahmed's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedazizi3&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
