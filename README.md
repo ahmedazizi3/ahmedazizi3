@@ -14,6 +14,12 @@ I'm a passionate mobile developer focused on building modern Android application
 
 ---
 
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ahmedazizi3&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedazizi3&show_icons=true&theme=radical)
