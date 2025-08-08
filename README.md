@@ -8,7 +8,7 @@ I'm a passionate mobile developer focused on building modern Android application
 
 * 🌍  I'm based in Ouargla, Algeria  
 * ✉️  You can contact me at [aziziahmed2705@gmail.com](mailto:aziziahmed2705@gmail.com)  
-* 🚀  I'm currently working on [Reader App](https://github.com/ahmedazizi3/CodeAlpha_FlashcardQuizGame)
+* 🚀  I'm currently working on [Flashcard Quiz Game](https://github.com/ahmedazizi3/CodeAlpha_FlashcardQuizGame)
 * 🧠  I'm learning Firebase  
 * 🤝  I'm open to collaborating on Any Android App Projects  
 
