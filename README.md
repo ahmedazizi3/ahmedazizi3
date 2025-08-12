@@ -28,11 +28,6 @@ I'm a passionate mobile developer focused on building modern Android application
 
 ---
 
-### 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ahmedazizi3&theme=radical&hide_border=true)
-
----
 
 ### ⏱️ Wakatime Coding Stats
 
